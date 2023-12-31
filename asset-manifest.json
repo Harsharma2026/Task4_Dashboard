@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Task4_Dashboard/static/css/main.df2d24a3.css",
+    "main.js": "/Task4_Dashboard/static/js/main.adab48ed.js",
+    "static/media/company-metrix.png": "/Task4_Dashboard/static/media/company-metrix.ce518ee3a0afff7dfe5e.png",
+    "static/media/logo.png": "/Task4_Dashboard/static/media/logo.b34f3fca950cf5dfd5cb.png",
+    "index.html": "/Task4_Dashboard/index.html",
+    "main.df2d24a3.css.map": "/Task4_Dashboard/static/css/main.df2d24a3.css.map",
+    "main.adab48ed.js.map": "/Task4_Dashboard/static/js/main.adab48ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2d24a3.css",
+    "static/js/main.adab48ed.js"
+  ]
+}
